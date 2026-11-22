@@ -10,12 +10,4 @@ __pycache__/
 runs/
 sample_output.jpg
 
-# Large sample videos (uncomment if your .mp4 is under 50MB and you want it in GitHub)
-backend/sample_videos/*.mp4
 
-# Environment variables & secrets
-.env
-
-# Node / React (for Step 4)
-frontend/node_modules/
-frontend/dist/
